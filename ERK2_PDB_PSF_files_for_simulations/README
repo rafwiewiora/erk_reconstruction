@@ -1,0 +1,3 @@
+WT_ERK2_wb_ion.pdb, WT_ERK2_wb_ion.psf, ERK2_55N_wb_ion.pdb and ERK2_55N_wb_ion.psf are the input files for MD simulations. They contain water molecules and ions.
+
+I deleted the water molecules and ions and obtained the structure files: WT_ERK2_no_wb_no_ion.pdb, ERK2_55N_no_wb_no_ion.pdb
